@@ -1,2 +1,2 @@
 # facial-image-denoising
-Ewha Womans University Capstone Design Project
+Capstone Design Project
